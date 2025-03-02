@@ -4,7 +4,7 @@ A collection of useful utility websites with descriptions.
 
 ## List of Utilities
 
-### [Glide Js](https://glidejs.com/:target="_blank")
+### [Glide Js](https://glidejs.com/)
 **Description:** A simple website for sliders and carousels.
 **Works WIth:** JS
 ---
