@@ -4,10 +4,10 @@ A collection of useful utility websites with descriptions.
 
 ## Common Utilities:
 
-- [Glide Js](https://glidejs.com/) - A simple website for sliders and carousels.
+- [Glide Js](https://glidejs.com/) - A website for simple sliders and carousels.
 - [Flexbox Labs](https://flexboxlabs.netlify.app/) - A website for components via flexbox & grids.
 - [CSS Gridgen](https://www.tailwindgen.com/) - A website for arranging components via grids. 
-- [Photo Gradients](https://photogradient.com/) - A website for getting gradient images for designs.
+- [Coolors](https://coolors.co/) - A website for getting colors/gradient any many other things for designs.
 - [Font Brief](https://www.fontbrief.com/fontbrief) - A nice websites for getting fonts for your designs. 
 - [Svg Pattern Design](https://svg.designcode.io/) - A website for designing svg patterns.
 - [Bespoke](https://markdalgleish.com/projects/bespoke.js/) - A nice website for 3d caraousel ad slider.
