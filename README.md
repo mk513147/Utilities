@@ -9,10 +9,11 @@
 - [Flexbox Labs](https://flexboxlabs.netlify.app/) - A website for components via flexbox & grids.
 - [CSS Gridgen](https://www.tailwindgen.com/) - A website for arranging components via grids. 
 - [Coolors](https://coolors.co/) - A website for getting colors/gradient any many other things for designs.
-- [Font Brief](https://www.fontbrief.com/fontbrief) - A nice websites for getting fonts for your designs. 
+- [Google Fonts](https://www.fontbrief.com/fontbrief) - No better website for getting fonts for your designs. 
 - [Svg Pattern Design](https://svg.designcode.io/) - A website for designing svg patterns.
 - [Bespoke](https://markdalgleish.com/projects/bespoke.js/) - A nice website for 3d caraousel ad slider.
 - [UIball](https://uiball.com/ldrs/) - A free website for loading icons.
+- [Fontawesome](https://fontawesome.com/) - A website for icons.
 
 ## REACT Libraries:
 - [Swapy](https://swapy.tahazsh.com/) - This website gives us swapable elements code. 
