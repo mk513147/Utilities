@@ -1,6 +1,7 @@
 # Utilities Websites
 
-A collection of useful utility websites with descriptions.
+### A collection of useful websites with descriptions.
+### You don't have to spend any more time searching 100s of site for designing or making your project just go through the websites here...
 
 ## Common Utilities:
 
@@ -18,5 +19,8 @@ A collection of useful utility websites with descriptions.
 - [React Bits](https://www.reactbits.dev/) - *A supercool library* for text/background/animations.
 - [Origin UI](https://originui.com/) - A react ui library for quick and fast designing.
 - [Chakra UI](https://chakra-ui.com/) - A react ui library for quick and fast designing.
-- [Shadcn](https://ui.shadcn.com/)- A react ui library for quick and fast designing.
-- [Framer Motion](https://motion.dev/)- A react ui library for animations and transitions.
+- [Shadcn](https://ui.shadcn.com/) - A react ui library for quick and fast designing.
+- [Framer Motion](https://motion.dev/) - A react ui library for animations and transitions.
+
+## APIs:
+- [Rapid Api](https://rapidapi.com/) - A good website for getting various types of APIs for your projects.
